@@ -1,2 +1,2 @@
 # Python-scripts
-Contain a variety of python scripts
+Contains variety of python scripts which showcases different skill sets.
